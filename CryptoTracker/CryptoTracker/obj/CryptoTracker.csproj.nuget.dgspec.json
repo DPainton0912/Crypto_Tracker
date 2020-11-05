@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muzra\\source\\repos\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {}
+    "C:\\Users\\muzra\\Documents\\GitHub\\Crypto_Tracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muzra\\source\\repos\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
+    "C:\\Users\\muzra\\Documents\\GitHub\\Crypto_Tracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muzra\\source\\repos\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
+        "projectUniqueName": "C:\\Users\\muzra\\Documents\\GitHub\\Crypto_Tracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
         "projectName": "CryptoTracker",
-        "projectPath": "C:\\Users\\muzra\\source\\repos\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
+        "projectPath": "C:\\Users\\muzra\\Documents\\GitHub\\Crypto_Tracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
         "packagesPath": "C:\\Users\\muzra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muzra\\source\\repos\\CryptoTracker\\CryptoTracker\\CryptoTracker\\obj\\",
+        "outputPath": "C:\\Users\\muzra\\Documents\\GitHub\\Crypto_Tracker\\CryptoTracker\\CryptoTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -48,6 +48,14 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

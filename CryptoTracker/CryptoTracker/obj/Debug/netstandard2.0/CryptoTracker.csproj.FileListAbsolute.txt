@@ -1,0 +1,7 @@
+C:\Users\muzra\Documents\GitHub\Crypto_Tracker\CryptoTracker\CryptoTracker\bin\Debug\netstandard2.0\CryptoTracker.deps.json
+C:\Users\muzra\Documents\GitHub\Crypto_Tracker\CryptoTracker\CryptoTracker\bin\Debug\netstandard2.0\CryptoTracker.dll
+C:\Users\muzra\Documents\GitHub\Crypto_Tracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.csprojAssemblyReference.cache
+C:\Users\muzra\Documents\GitHub\Crypto_Tracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Crypto_Tracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Crypto_Tracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.AssemblyInfoInputs.cache
+C:\Users\muzra\Documents\GitHub\Crypto_Tracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.AssemblyInfo.cs

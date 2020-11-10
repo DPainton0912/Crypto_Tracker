@@ -7,11 +7,6 @@
         <ListView x:Name="CoinListView">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <!--<ImageCell 
-                        Text="{Binding Name}" 
-                        Detail="{Binding Price_USD, StringFormat='{}{0:c}'}" 
-                        ImageSource="{Binding Icon_Url}">
-                    </ImageCell>-->
                     <ViewCell>
                         <StackLayout Orientation="Horizontal" Padding="0,0,0,0">
                             <Image Source="{Binding Icon_Url}" />

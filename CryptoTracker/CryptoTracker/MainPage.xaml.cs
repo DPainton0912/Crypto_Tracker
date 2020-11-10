@@ -30,7 +30,7 @@ namespace CryptoTracker
         {
             List<Coins> coins;
 
-            var client = new RestClient("https://rest.coinapi.io/v1/assets?filter_asset_id=BTC;ETH;XMR;LTC");
+            var client = new RestClient("https://rest.coinapi.io/v1/assets?filter_asset_id=BTC;ETH;XMR;LTC;DASH");
             var request = new RestRequest(Method.GET);
             request.AddHeader("X-CoinAPI-Key", apiKey);
 
